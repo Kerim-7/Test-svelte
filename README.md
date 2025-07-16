@@ -8,8 +8,6 @@ Everything you need to build a Svelte project, powered by [`sv`](https://github.
 
 ## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
-
 ```bash
 # create a new project in the current directory
 npx sv create
@@ -41,7 +39,6 @@ You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 
----
 
 ## Описание приложения
 
@@ -53,17 +50,18 @@ You can preview the production build with `npm run preview`.
 - Сохранение данных в IndexDB
 - (Бонус) Удаление, редактирование, поиск, сортировка задач, анимации, адаптивность интерфейса
 
----
+5 ключевых промптов к ИИ
 
-## Время на этапы
+1. "Добавь задачу: Прочитать статью по Svelte"
+2. "Покажи все невыполненные задачи"
+3. "Найди задачу со словом 'статья'"
+4. "Переименуй задачу 'Прочитать статью по Svelte' в 'Прочитать документацию Svelte'"
+5. "Отметь задачу 'Прочитать документацию Svelte' как выполненную"
 
-- Анализ требований и структуры проекта: **15 минут**
-- Реализация поиска по todo: **10 минут**
-- Проверка и доработка README.md: **10 минут**
-- Тестирование и финальная проверка: **10 минут**
-- Подготовка скриншота и финальная документация: **5 минут**
 
-_Итого: ~50 минут_
-
----
-
+Время на каждый этап:
+Задание 1: "Быстрая настройка" (30 мин)
+Задание 2: "Основная функциональность" (1 час 30 мин)
+Задание 3: "Финальная доработка" (30 час)
+Задание 4: "Отладка и тестирование" (15минут)
+Задание 5: "Бонусные функции" (20 мин)
